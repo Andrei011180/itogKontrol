@@ -1,0 +1,14 @@
+C:\Users\acer\Desktop\Итоговая контрольная работа\bin\Debug\net7.0\Итоговая контрольная работа.exe
+C:\Users\acer\Desktop\Итоговая контрольная работа\bin\Debug\net7.0\Итоговая контрольная работа.deps.json
+C:\Users\acer\Desktop\Итоговая контрольная работа\bin\Debug\net7.0\Итоговая контрольная работа.runtimeconfig.json
+C:\Users\acer\Desktop\Итоговая контрольная работа\bin\Debug\net7.0\Итоговая контрольная работа.dll
+C:\Users\acer\Desktop\Итоговая контрольная работа\bin\Debug\net7.0\Итоговая контрольная работа.pdb
+C:\Users\acer\Desktop\Итоговая контрольная работа\obj\Debug\net7.0\Итоговая контрольная работа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\Итоговая контрольная работа\obj\Debug\net7.0\Итоговая контрольная работа.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\Итоговая контрольная работа\obj\Debug\net7.0\Итоговая контрольная работа.AssemblyInfo.cs
+C:\Users\acer\Desktop\Итоговая контрольная работа\obj\Debug\net7.0\Итоговая контрольная работа.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Итоговая контрольная работа\obj\Debug\net7.0\Итоговая контрольная работа.dll
+C:\Users\acer\Desktop\Итоговая контрольная работа\obj\Debug\net7.0\refint\Итоговая контрольная работа.dll
+C:\Users\acer\Desktop\Итоговая контрольная работа\obj\Debug\net7.0\Итоговая контрольная работа.pdb
+C:\Users\acer\Desktop\Итоговая контрольная работа\obj\Debug\net7.0\Итоговая контрольная работа.genruntimeconfig.cache
+C:\Users\acer\Desktop\Итоговая контрольная работа\obj\Debug\net7.0\ref\Итоговая контрольная работа.dll
